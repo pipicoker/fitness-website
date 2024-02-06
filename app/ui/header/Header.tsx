@@ -6,7 +6,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className='h-[83px] lg:h-[112px] px-8 lg:px-[100px] bg-[#F7F7F7] opacity-60 flex items-center justify-between'>
+    <div className='h-[83px] lg:h-[112px] px-4 lg:px-[100px] bg-[#F7F7F7] opacity-60 flex items-center justify-between'>
         <div className='flex gap-[100px]'>
             <Logo/>
             <NavigationBtns />

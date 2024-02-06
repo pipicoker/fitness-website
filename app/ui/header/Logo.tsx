@@ -1,5 +1,4 @@
 import Link from "next/link"
-import logo from "../../../public/logo.jpg"
 
 const Logo = () => {
   return (

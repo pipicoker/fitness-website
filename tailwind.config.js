@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         sora: ['var(--font-sora)'],
         inter: ['var(--font-inter)'],
+      },
+      backgroundImage: {
+        "hero-bg": "url(../public/hero-bg-img.png)"
       }
     },
   },
